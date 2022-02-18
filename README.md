@@ -1,1 +1,1 @@
-# Titanic-Survivor-ML-Logistic-Regression
+Logistic Regression on TITANIC Data Set from Kaggle
